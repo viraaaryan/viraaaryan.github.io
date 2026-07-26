@@ -1,4 +1,8 @@
-[Home](/) | [Hardware Projects](/hardware/)
+---
+layout: single
+title: "Aaryan Vira - Biomedical Engineer"
+header:
+  overlay_color: "#333"
 ---
 # Aaryan Vira - Biomedical Engineer
 Welcome to my portfolio! I am graduating this June with my B.S. in Biomedical Engineering from UC Davis.
