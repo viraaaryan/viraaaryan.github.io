@@ -3,7 +3,7 @@ description: Biomedical Engineer Portfolio
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-include-cache
-  author:
+author:
   name: "Aaryan Vira"
-  avatar: "/headshot.jpg"
+  avatar: "/assets/headshot.jpg"
   bio: "Biomedical Engineer"
