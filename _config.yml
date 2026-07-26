@@ -1,1 +1,5 @@
-
+title: Aaryan Vira
+description: Biomedical Engineer Portfolio
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-include-cache
