@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Hardware Projects
-permalink: /hardware/
+layout: single
+title: "Projects"
+permalink: /projects/
 ---
-
-yabadabadoo
