@@ -14,7 +14,23 @@ My primary focus within the medical device industry is manufacturing and design 
 Please feel free to explore my projects and resume using the tabs above, and reach out if you would like to connect!
 
 <style>
+  /* Resize Headshot */
   .author__avatar img {
     max-width: 180px; 
+  }
+  
+  /* Change Global Font */
+  body, h1, h2, h3, .masthead__menu-item {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+  }
+
+  /* Shrink Top Navigation Text */
+  .masthead__menu-item {
+    font-size: 0.85rem !important;
+  }
+
+  /* Reduce Gap Between Menu and Banner */
+  .masthead {
+    margin-bottom: 0 !important;
   }
 </style>
