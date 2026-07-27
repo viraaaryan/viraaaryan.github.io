@@ -7,11 +7,11 @@ author_profile: true
 ---
 Welcome to my portfolio! 
 
-I am a recent graduate of the University of California, Davis, where I earned my B.S. in Biomedical Engineering in 2026. I am deeply passionate about the medical device industry, with a specific focus on manufacturing and design engineering. 
+I recently graduated from the University of California, Davis with a B.S. in Biomedical Engineering (Class of 2026). 
 
-My engineering approach centers on transforming complex clinical needs into tangible, manufacturable solutions. Throughout my academic and project work—including the end-to-end development of a ventilator-integrated diagnostic device—I have heavily utilized computer-aided design, rapid prototyping, and 3D printing. Whether utilizing SolidWorks and Onshape to engineer custom mechanical fittings or evaluating structural designs, I am driven by the opportunity to build robust, life-improving medical technologies.
+My primary focus within the medical device industry is manufacturing and design engineering. I enjoy the process of bringing technologies from an initial concept into a fully realized physical product. My engineering foundation relies heavily on computer-aided design, rapid prototyping, and 3D printing to develop reliable and effective mechanical solutions.
 
-Feel free to explore my hardware and software projects above, and don't hesitate to reach out!
+Please feel free to explore my projects and resume using the tabs above, and reach out if you would like to connect!
 
 <style>
   .author__avatar img {
