@@ -1,5 +1,7 @@
 main:
-  - title: "Hardware Projects"
-    url: /hardware/
-  - title: "Software & Data"
-    url: /software/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
+  - title: "Contact"
+    url: /contact me/
