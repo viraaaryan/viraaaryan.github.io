@@ -1,0 +1,5 @@
+main:
+  - title: "Hardware Projects"
+    url: /hardware/
+  - title: "Software & Data"
+    url: /software/
