@@ -1,0 +1,16 @@
+/* Custom Theme Overrides */
+.author__avatar img {
+  max-width: 180px !important; 
+}
+
+body, h1, h2, h3, .masthead__menu-item, .author__name, .author__bio {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif !important;
+}
+
+.masthead__menu-item {
+  font-size: 0.85rem !important;
+}
+
+.masthead {
+  margin-bottom: 0 !important;
+}
